@@ -1,7 +1,6 @@
 # Roopasree Challa
 # 💫 About Me:
-Passionate about AI, Data Science & Cybersecurity  <br>BTech CSE student @Lovely Professional University<br>Co-Founder and CEO @CYPHER <br>Pursuing BCA simultaneously @ LPU Online 
-
+Passionate about AI, Data Science & Cybersecurity  <br>BTech CSE student @Lovely Professional University
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roopasreechalla) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/roopasreechalla) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RoopasreeChalla) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RoopasreeChalla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roopasree01.challa@gmail.com) 
